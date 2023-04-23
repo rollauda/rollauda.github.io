@@ -1,2 +1,3 @@
 # rollauda.github.io
-Utiliser Beautiful Jekyll comme thème de page d'accueil.
+Page d'accueil des cours de philo, HLP et DGEMC.  
+Thème Jekyll : *no-style-please*
