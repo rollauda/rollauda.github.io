@@ -11,12 +11,8 @@ repository: rollauda/ # for github-metadata
 
 # Cours de Rolland Auda
 
----
-
 Documents et compléments aux cours de philosophie, HLP et DGEMC.  
 La Condamine, Quito, Équateur.
-
----
 
 ## Sommaire
 - [Documents des leçons de philosophie, Terminale, tronc commun](https://rollauda.github.io/pt2023)
