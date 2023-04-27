@@ -18,10 +18,6 @@ Documents et compléments aux cours de philosophie, HLP et DGEMC.
 - [Documents des leçons de philosophie, Terminale, tronc commun](https://rollauda.github.io/pt2023)
 
 
-- Documents des leçons de Spécialité humanité (Terminale)
-
-
-- Documents des leçons de Spécialité humanité (Première)
-
+- [Documents des leçons de Spécialité humanité (Première et Terminale)](https://rollauda.github.io/hlp/)
 
 - Documents des leçons de DGEMC
