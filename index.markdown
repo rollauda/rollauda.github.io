@@ -21,6 +21,8 @@ Documents et compléments aux cours de philosophie, HLP et DGEMC.
 
 - Site des leçons de DGEMC
 
+<br>
+
 - [Tous les diaporamas des leçons](https://rollauda.github.io/diaporamas)
 
 - [Tous les schémas utilisés dans les leçons](https://rollauda.github.io/schemas)
