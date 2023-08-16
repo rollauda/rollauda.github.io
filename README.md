@@ -3,11 +3,11 @@
 Documents et compléments aux cours de philosophie, HLP et DGEMC.  
 *La Condamine, Quito, Équateur, 2023.*
 
-## Sommaire
+## Liens vers les différents sites
 - [Site des leçons de philosophie, Terminale, tronc commun](https://rollauda.github.io/philotg)
 - [Site des leçons de Spécialité humanité Terminale](https://rollauda.github.io/hlpt/)
 - [Site des leçons de Première Spécialité CAV](https://rollauda.github.io/cav1/)
-- Site des leçons de DGEMC
+- [Site des leçons de DGEMC](https://rollauda.github.io/dgemc/)
 
 ---
 
