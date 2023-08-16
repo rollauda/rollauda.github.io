@@ -5,10 +5,8 @@ Documents et compléments aux cours de philosophie, HLP et DGEMC.
 
 ## Sommaire
 - [Site des leçons de philosophie, Terminale, tronc commun](https://rollauda.github.io/philotg)
-
 - [Site des leçons de Spécialité humanité Terminale](https://rollauda.github.io/hlpt/)
-- Site des leçons de Première Spécialité CAV
-
+- [Site des leçons de Première Spécialité CAV](https://rollauda.github.io/cav1/)
 - Site des leçons de DGEMC
 
 ---
