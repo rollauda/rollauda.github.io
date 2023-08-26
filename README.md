@@ -9,4 +9,7 @@ Documents et compléments aux cours de philosophie, HLP, CAV et DGEMC.
 - [Site des leçons de Première Spécialité CAV](https://rollauda.github.io/cav1/)
 - [Site des leçons de l'Option DGEMC](https://rollauda.github.io/dgemc/)
 
+#### Complément
+- [Cartes mentales utilisées dans les cours](https://rollauda.github.io/schemas)
+
 
