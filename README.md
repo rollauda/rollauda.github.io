@@ -1,7 +1,3 @@
----
-title: Cours de R. Auda
----
-
 # COURS DE ROLLAND AUDA
 ## Leçons de Philosophie, HLP, CAV et DGEMC 
 ### *La Condamine, Quito, 2023-2024*
