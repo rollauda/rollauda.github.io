@@ -22,37 +22,17 @@ Vérifier l'installation :
 
 ```ruby -v```
 
-## Cloner ancien site
+## Créer repo dans github desktop
 
-Aller sur https://github.com/just-the-docs/just-the-docs-template
-
-use this template + Create a new repository
-
-## Dans vscodium
-
-Dans gemfile.lock
-
-```
-BUNDLED WITH
-   3.3.4
-````
-
-Configurer config.yaml à partir de celui de l'année précédente en updatant les infos
-
-Copier les fichiers de l'ancien site
+## copier les fichier (et cachés) de l'année précédente
 
 Ajouter les fichiers modèles de leçons
 
-**Redémarrer vscodium**
+## Dans vscodium
 
+Mettre à jour congig.yaml
 
-Installer Bundler :
-
-```gem install bundler```
-
-Update
-
-```bundle update```
+bundle install
 
 Tester en local :
 
