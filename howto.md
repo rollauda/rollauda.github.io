@@ -28,6 +28,13 @@ Vérifier l'installation :
 
 Ajouter les fichiers modèles de leçons
 
+## Version Jekyll : garder 0.5.0
+
+*Si autre version : :*
+0.5.0 dans gemfile
+rm Gemfile.lock
+bundle install
+
 ## Dans vscodium
 
 Mettre à jour config.yaml
