@@ -1,9 +1,4 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
----
+### Cours de Rolland Auda
 
 Documents et compléments aux cours de philosophie, HLP, CAV et DGEMC.  
 *La Condamine, Quito, Équateur, 2024 - 2025.*
@@ -17,3 +12,4 @@ Documents et compléments aux cours de philosophie, HLP, CAV et DGEMC.
 #### Compléments
 - [Cartes mentales utilisées dans les cours](https://profauda.fr/schemas)
 - [Podcasts](https://profauda.fr/pod/)
+
