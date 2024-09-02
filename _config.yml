@@ -22,7 +22,7 @@ title: Cours de Rolland Auda
 email: auda.rolland@condamine.edu.ec
 description: >- # this means to ignore newlines until "baseurl:"
   Cours de Philosophie, HLP, CAV et DGEMC.
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "profauda.fr" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  rollauda
