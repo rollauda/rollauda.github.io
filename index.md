@@ -6,11 +6,11 @@ layout: home
 ---
 
 Documents et compléments aux cours de philosophie, HLP, CAV et DGEMC.  
-*La Condamine, Quito, Équateur, 2024 - 2025.*
+*La Condamine, Quito, Équateur, 2025 - 2026.*
 
 #### Liens vers les sites
-- [Site des leçons de Terminale Philosophie Tronc Commun](https://phil.profauda.fr/)
-- [Site des leçons de Terminale Spécialité Humanités Philosophie](https://hlpt.profauda.fr/)
+- [Site des leçons de Terminale Philosophie Tronc Commun](https://philo.profauda.fr/)
+- [Site des leçons de Première Spécialité Humanités Philosophie](https://hlp1.profauda.fr/)
 - [Site des leçons de Première Spécialité CAV](https://cav1.profauda.fr)
 - [Site des leçons de l'Option DGEMC](https://dgemc.profauda.fr/)
 
